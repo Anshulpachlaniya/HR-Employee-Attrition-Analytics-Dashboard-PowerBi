@@ -1,7 +1,5 @@
 # HR Employee Attrition & Workforce Analytics Dashboard
 
-![HR Analytical Dashboard](hr_dashboard_preview.png)
-
 ## Project Overview
 This Power BI project analyzes employee data for **1,403 staff members** to understand employee turnover (**227 exits, 16.2% attrition rate**). The dashboard helps HR teams track key workforce metrics across departments, job roles, salary slabs, age groups, and experience levels to improve employee retention.
 
