@@ -50,7 +50,6 @@ Power BI Desktop: Data modeling, DAX calculations, KPI cards, Donut charts, Funn
 
 ## Author & Contact
 Created by **[Anshul Pachlaniya]** — Analyst  
-* **LinkedIn:** [https://www.linkedin.com/in/anshul-pachlaniya-a8506323a/] 
-* **Email:** [Your Email Address]  
+* **LinkedIn:** [https://www.linkedin.com/in/anshul-pachlaniya-a8506323a/]  
 
 *Thank you for reviewing this project! Feel free to connect or reach out with feedback.*
