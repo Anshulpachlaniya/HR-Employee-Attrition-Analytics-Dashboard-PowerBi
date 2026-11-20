@@ -50,6 +50,5 @@ The HR team wanted clear answers to the following questions:
 ## Author & Contact
 Created by **[Anshul Pachlaniya]** — Aspiring Data Analyst  
 * **LinkedIn:** [https://www.linkedin.com/in/anshul-pachlaniya-a8506323a/]  
-* **Portfolio / GitHub:** [Your GitHub Profile Link] * **Email:** [Your Email Address]  
-
+  
 *Thank you for reviewing this project! Feel free to connect or reach out with feedback.*
